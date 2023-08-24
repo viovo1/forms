@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-weight: 800;
+    text-decoration: overline underline;
+    letter-spacing: 10px;
+    font-size: 60px;
+    font-family: 'Segoe UI';
+}
+
+p {
+    font-weight: bold;
+    line-height: 2;
+}
+
+a{
+    text-decoration: none;
+}

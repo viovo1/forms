@@ -1,0 +1,48 @@
+/* 
+* {
+    background-color: cyan;
+}
+acima, o * pode mudar todo o site.
+*/
+body {
+    background-color: #f1faee;
+}
+
+button {
+    font-size: 20px ;
+    background-color: #518bdb;
+    color: #f1faee;
+}
+
+
+h1,h2 {
+    color: #1d3557;
+}
+
+#signup {
+    background-color: #518bdb;
+    color: #f1faee;
+}
+
+button:hover {
+    background-color: #e63946;
+    color: #f1faee;
+}
+
+input [type='password'] {
+    color: red
+}
+
+.post:nth-of-type(even){
+    background-color: #dfe8dc;
+}
+
+.post:nth-of-type(odd){
+    background-color: #bde0fe;
+}
+
+h2::before {
+    content: 'look at those ';
+    color:red
+    
+}
